@@ -1,2 +1,3 @@
 # Eco-Home-Builders
 "More homeowners realize they need climate-resilient homes. As a homeowner, how would you know which roof design or materials to use in order to protect your home from strong winds or wildfires? By entering a zip code, eampact provides the top risks in your county, resilient strategies for your home and certified building materials that can reduce climate risks. https://www.eampact.com/ https://www.eampact.com/contactUs"
+![blog_image_1639982799295_blog_image_1639718503897_Resilient_Key_Monroe_County-min](https://user-images.githubusercontent.com/105626823/168532238-2d227d32-4ffc-4dfb-ac30-d449f4d55907.png)
